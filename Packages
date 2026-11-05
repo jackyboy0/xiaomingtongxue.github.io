@@ -1,0 +1,40 @@
+Package: byg.iosios.net.pkc
+Architecture: iphoneos-arm64
+Version: 0.9-8
+Priority: optional
+Section: 微信插件
+Maintainer: 搬运工
+Depends: firmware (>= 5.0)
+Filename: debs/PKC微信助手-0.9-8.deb
+Size: 1911470
+MD5sum: 2903d98ade92b215d6e07160ca5355cb
+SHA1: 44b398dd7bea71b2ca112f9b848292ed2a045c04
+SHA256: fa1a1a08965fc5c077a7ae95a6d218e5e7d759cd34364971177811e5b19cc052
+SHA512: 3b351a3a2eb91324b91ad446eae2cca6a84109ff60eb1d77731879831ac771464bf3b81bd25addbe1ab6d9728e42192dcb1cc7052b1c10e8f8a010f3060875d3
+Description: 群管理Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、[每天60s读懂世界]自动发送信息、文字转语音等功能，非常的不错，认准搬运工源更新即可！
+Name: PKC微信助手
+Author: Curtin
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: byg.iosios.net.MikotoHelper
+Architecture: iphoneos-arm64
+Version: 1.3.6-10
+Section: 微信插件
+Maintainer: 搬运工
+Provides: MikotoHelper
+Depends: mobilesubstrate
+Conflicts: MikotoHelper
+Replaces: MikotoHelper
+Filename: debs/微信MikotoHelper助手-1.3.6-10.deb
+Size: 29258098
+MD5sum: d3a467085d56ff2fa853e0d350bdff88
+SHA1: 901c50c3173ba024144c882a932e3d340e467bd3
+SHA256: d85f815c100a4d8028955613544efd67ee220e43a391bc8d649fb860ba735f0b
+SHA512: 4a29878d740b2e1ef97b4160df6eb446548854d5829e23b4d68f44ae3a7056d50e60d6ab8391dd64acf00f9a665d9de77a606691501a2957b09def36ce507d5f
+Description: 微信Misaka增强版，价值200块，作者格局太大了，现在免费使用，但是不会再更新了，越狱圈有这作者真好，有能力的去赞助一下也是可以的，插件功能非常的多，deepseek、语音包、跟发朋友圈、防撤回等等，大家自行体验！和Misaka不能共存，二者选其一，感谢大爱作者，冲冲冲，搬运工源，搬你所想！
+Name: 微信MikotoHelper助手
+Author: Mikoto
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+

@@ -1,0 +1,16 @@
+Origin: 小铭同学
+Label: 小铭同学
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: 小铭同学
+Support: https://jackyboy0.github.io/xiaomingtongxue.github.io/
+Icon: https://jackyboy0.github.io/xiaomingtongxue.github.io/CydiaIcon.png
+MD5Sum:
+ a97727992124b8a6f47e160e511ed08a  2358 Packages
+ f487caafb2650ac93b8a903fbd7abadc  1505 Packages.gz
+SHA256:
+ 3baf5cd8ffd59a9ec0b5dd29d46a74b64ca82cf002064ed1d87454730bfe3a25  2358 Packages
+ f76dd22367e2b1d799d3528d7fa013b9bf2dc0fa2c96b79312541e4964161ad7  1505 Packages.gz
