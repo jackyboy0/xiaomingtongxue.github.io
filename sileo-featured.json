@@ -1,0 +1,13 @@
+{
+  "class": "FeaturedBannersView",
+  "itemSize": "{400, 255}",
+  "itemCornerRadius": 12,
+  "banners": [
+    {
+      "url": "https://jackyboy0.github.io/xiaomingtongxue.github.io/banner-1793883195026.jpg",
+      "title": "",
+      "hideShadow": true,
+      "displayText": false
+    }
+  ]
+}
