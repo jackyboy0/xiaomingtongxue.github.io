@@ -1,3 +1,21 @@
+Package: com.dumpapp.wechat-rootless
+Architecture: iphoneos-arm64
+Version: 2.7.0
+Section: Tweaks
+Maintainer: WeChat
+Installed-Size: 15616
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: debs/DPWechatHelper_Rootless.deb
+Size: 6019418
+MD5sum: b9c7c2267e716cbe6b73e6c520bfeeb3
+SHA1: e4a6024b359aab522041cf0c15455b5a7f30915a
+SHA256: d03ad1e80a664172aed5ffe00ce77dfd3ff5f9bd8ada5868bac506bc73731db0
+SHA512: 4932681772d7a3a387648534fdba280700d7d186e7d00b74bc7f2f86f6c75b0a8c2729b9f5ad9da2e429eb824418e21c74604c0e5a81cc6886240f80a6198550
+Description: 锤子助手微信插件
+ 微信增强 Tweak，提供聊天、语音和界面等可配置功能。
+Name: 锤子助手-Rootless
+Author: DumpApp
+
 Package: byg.iosios.net.pkc
 Architecture: iphoneos-arm64
 Version: 0.9-8
@@ -16,6 +34,22 @@ Name: PKC微信助手
 Author: Curtin
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 3.0.7
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/主题盒子-隐根-3.0.7.deb
+Size: 9710028
+MD5sum: 6c580657617aa254c59e1295cae18a26
+SHA1: 53cee6901d8c55360aa1fe18153c5b52585ba8b9
+SHA256: 14206b74319bd78392575619309fec4901fb8aea48b8297f3c425dde99094b5b
+SHA512: 77b15b2911836a940a0523cf518454fe82891ed7f8e4fcde259645ba548282812f0b36f4ee3d3553e84e6c9e82a0099cdeef42660be5952766ed20bb1bc1144a
+Name: 主题盒子-隐根
+Author: Mao
+Sponsor: admin@25mao.com
 
 Package: byg.iosios.net.MikotoHelper
 Architecture: iphoneos-arm64
@@ -37,4 +71,22 @@ Name: 微信MikotoHelper助手
 Author: Mikoto
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.9-5
+Priority: optional
+Section: Rootless
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/微信助手-Rootless-3.9-5.deb
+Size: 6819686
+MD5sum: c6ee8ef47ffe863137e5d44c0ba10c46
+SHA1: ceddca16f2d95c73b9320db6fe95e6465ad092e9
+SHA256: 60bbd6a9ce57eb5a7714653838f964ff6a801c4af004722938599a9f7815780b
+SHA512: e29da6bd9c3326908796fd0c1a6d7bd6906d3e6fee9a80a2f239cadc740906bb9583682028808ac18f58059f6bbc703b5d19371eb27ae2e540d05178cb51eb84
+Description: 微信助手-Rootless版
+Name: 微信助手-Rootless
+Author: Mao
+Sponsor: admin@25mao.com
 
